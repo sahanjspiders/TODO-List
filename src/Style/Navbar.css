@@ -1,0 +1,35 @@
+.Navcontenar{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding-left: 100px;
+    height: 90px;
+    text-decoration: none;
+}
+
+.Navtemlate{
+    display: flex;
+    width: 600px;
+    justify-content: space-evenly;
+    
+    
+}
+
+
+.nav-items{
+    /* text-decoration-color: aliceblue; */
+    color: white;
+    padding-top: 20px;
+    text-align: end;
+ text-decoration: none;
+}
+
+
+.Navbutton{
+    border-radius: 10px ;
+    width: 80px;
+    height: 40px;
+    margin-top: 22px;
+    background-color: chocolate;
+    
+}

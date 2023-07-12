@@ -1,0 +1,29 @@
+
+
+.Main_Card{
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+    width: 200vh;
+    height: auto;
+    background-color: aqua;
+    margin-top: 80px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+    box-shadow: 0px 5px 5px 5px;
+}
+
+.class{
+    height: 200px;
+    width: 300px;
+background-color: rgb(214, 226, 180);
+border-radius: 2px;
+border-color: black;
+box-shadow: 20px;
+margin: 40px;
+border-style: solid;
+border-color: black;
+border-radius: 20px;
+cursor: pointer;
+}
